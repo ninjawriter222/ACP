@@ -1,0 +1,5 @@
+TeacherView
+Dispatching
+FrontController
+StudentView
+FrontControllerPattern
